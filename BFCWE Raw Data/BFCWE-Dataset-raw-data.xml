@@ -1,0 +1,1093 @@
+﻿<BFCWE-Dataset>
+  <CWE ID="20">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Incosnistent Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Incosnistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="22">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="23">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="24">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="25">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="26">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="27">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="28">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="29">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="30">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="31">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="32">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="33">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="34">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="35">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="36">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="37">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="38">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="39">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="40">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="41">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="42">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="43">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="44">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="45">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="46">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="47">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="48">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="49">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="50">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="51">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="52">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="53">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="54">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="55">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="56">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="57">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Validate" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="58">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="73">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="74">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="75">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="76">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Santize" Consequence="File Injection" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Santize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="77">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="78">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="79">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="80">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="81">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="82">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="83">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="84">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="85">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="86">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="87">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="88">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="89">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="90">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="91">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="93">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="94">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="95">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="96">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="97">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="98">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="99">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="105">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="106">
+    <BFCWE Cause="Missing Code" Operation="Validate" />
+    <BFCWE Cause="Missing Code" Operation="Verify" />
+  </CWE>
+  <CWE ID="108">
+    <BFCWE Cause="Erroneous Code" Operation="Validate" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" />
+  </CWE>
+  <CWE ID="109">
+    <BFCWE Cause="Erroneous Code" Operation="Validate" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" />
+  </CWE>
+  <CWE ID="112">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="113">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="116">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="117">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" />
+  </CWE>
+  <CWE ID="118">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Read" Consequence="Buffer Over-Read" />
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Read" Consequence="Buffer Under-Read" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="119">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Read" Consequence="Buffer Over-Read" />
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Read" Consequence="Buffer Under-Read" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="120">
+    <BFCWE Cause="Not Enough Memory" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Not Enough Memory" Operation="Write" Consequence="Buffer Overflow" />
+  </CWE>
+  <CWE ID="121">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="122">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="123">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="124">
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="125">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Read" Consequence="Buffer Over-Read" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Read" Consequence="Buffer Under-Read" />
+  </CWE>
+  <CWE ID="126">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Read" Consequence="Buffer Over-Read" />
+  </CWE>
+  <CWE ID="127">
+    <BFCWE Cause="Under Bounds Pointer" Operation="Read" Consequence="Buffer Under-Read" />
+  </CWE>
+  <CWE ID="128">
+    <BFCWE Operation="Calculate" Consequence="Wrap Around" />
+  </CWE>
+  <CWE ID="129">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="130">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="131">
+    <BFCWE Operation="Calculate" />
+  </CWE>
+  <CWE ID="134">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="135">
+    <BFCWE Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="138">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="140">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="141">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="142">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="143">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="144">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="145">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="146">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="147">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="148">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="149">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="150">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="151">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="152">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="153">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Command Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="154">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Parameter Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="155">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="SQL Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="SQL Injection" />
+  </CWE>
+  <CWE ID="156">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="157">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="158">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="159">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="160">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="161">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="162">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="163">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="164">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="165">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="166">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="167">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="168">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="170">
+    <BFCWE Cause="Erroneous Code" Operation="Write" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="183">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="184">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="185">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Over-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Over-Restrictive Policy" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Over-Restrictive Policy" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Over-Restrictive Policy" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="186">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="188">
+    <BFCWE Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="190">
+    <BFCWE Operation="Calculate" Consequence="Wrap Around" />
+  </CWE>
+  <CWE ID="191">
+    <BFCWE Operation="Calculate" Consequence="Wrap Around" />
+  </CWE>
+  <CWE ID="192">
+    <BFCWE Operation="Coerce" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="193">
+    <BFCWE Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="194">
+    <BFCWE Cause="Erroneous Code" Operation="Coerce" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="195">
+    <BFCWE Cause="Erroneous Code" Operation="Coerce" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="196">
+    <BFCWE Cause="Erroneous Code" Operation="Coerce" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="226">
+    <BFCWE Cause="Missing Code" Operation="Clear" Consequence="Not Cleared Object" />
+  </CWE>
+  <CWE ID="228">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="229">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="230">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="231">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="232">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="233">
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="234">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Parameter Injection" />
+  </CWE>
+  <CWE ID="235">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="236">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="237">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Incosnistent Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Incosnistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="238">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="239">
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="240">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="244">
+    <BFCWE Cause="Missing Code" Operation="Clear" Consequence="Not Cleared Object" />
+  </CWE>
+  <CWE ID="253">
+    <BFCWE Cause="Erroneous Code" Operation="Verify" />
+  </CWE>
+  <CWE ID="369">
+    <BFCWE Cause="Wrong Argument" Operation="Calculate" Consequence="Undefined" />
+  </CWE>
+  <CWE ID="374">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="375">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="386">
+    <BFCWE Cause="Erroneous Code" Operation="Call" Consequence="Wrong Object Resolved" />
+  </CWE>
+  <CWE ID="400">
+    <BFCWE Cause="Wrong Size" Operation="Allocate" Consequence="Memory Overflow" />
+    <BFCWE Cause="Single Owned Address" Operation="Reassign" Consequence="Memory Leak" />
+    <BFCWE Cause="Missing Code" Operation="Deallocate" Consequence="Memory Leak" />
+  </CWE>
+  <CWE ID="401">
+    <BFCWE Cause="Single Owned Address" Operation="Reassign" Consequence="Memory Leak" />
+  </CWE>
+  <CWE ID="404">
+    <BFCWE Cause="Missing Code" Operation="Deallocate" Consequence="Memory Leak" />
+    <BFCWE Cause="Missing Code" Operation="Deallocate" Consequence="Object Corruption" />
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Memory Leak" />
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="415">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Double Deallocate" />
+  </CWE>
+  <CWE ID="416">
+    <BFCWE Cause="Dangling Pointer" Operation="Read" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Write" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Dereference" Consequence="Use After Deallocate" />
+  </CWE>
+  <CWE ID="428">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="File Injection" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="456">
+    <BFCWE Cause="Missing Code" Operation="Initialize Object" Consequence="Uninitialized Object" />
+  </CWE>
+  <CWE ID="457">
+    <BFCWE Cause="Uninitialized Object" />
+  </CWE>
+  <CWE ID="459">
+    <BFCWE Cause="Erroneous Code" Operation="Clear" Consequence="Not Cleared Object" />
+  </CWE>
+  <CWE ID="460">
+    <BFCWE Cause="Missing Code" Operation="Deallocate" Consequence="Memory Leak" />
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Memory Leak" />
+  </CWE>
+  <CWE ID="463">
+    <BFCWE Cause="Erroneous Code" Operation="Write" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="464">
+    <BFCWE Cause="Erroneous Code" Operation="Write" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="466">
+    <BFCWE Operation="Initialize Pointer" Consequence="Over Bounds Pointer" />
+    <BFCWE Operation="Initialize Pointer" Consequence="Under Bounds Pointer" />
+    <BFCWE Operation="Reposition" Consequence="Over Bounds Pointer" />
+    <BFCWE Operation="Reposition" Consequence="Under Bounds Pointer" />
+  </CWE>
+  <CWE ID="467">
+    <BFCWE Cause="Wrong Type" Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="468">
+    <BFCWE Cause="Wrong Type" Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="469">
+    <BFCWE Cause="Wrong Type" Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="471">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="476">
+    <BFCWE Cause="NULL Pointer" Operation="Dereference" Consequence="NULL Pointer Dereference" />
+  </CWE>
+  <CWE ID="491">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Function" />
+  </CWE>
+  <CWE ID="492">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="493">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="495">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="496">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="498">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="499">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="500">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="554">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="562">
+    <BFCWE Cause="Erroneous Code" Operation="Reassign" Consequence="Wild Pointer" />
+  </CWE>
+  <CWE ID="564">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="568">
+    <BFCWE Cause="Missing Code" Operation="Deallocate" />
+  </CWE>
+  <CWE ID="580">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="581">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="582">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="583">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Function" />
+  </CWE>
+  <CWE ID="586">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" />
+  </CWE>
+  <CWE ID="587">
+    <BFCWE Cause="Hardcoded Address" Operation="Initialize" Consequence="Wild Pointer" />
+    <BFCWE Cause="Hardcoded Address" Operation="Reassign" Consequence="Wild Pointer" />
+  </CWE>
+  <CWE ID="588">
+    <BFCWE Cause="Casted Pointer" Operation="Read" Consequence="Type Confusion" />
+    <BFCWE Cause="Casted Pointer" Operation="Write" Consequence="Type Confusion" />
+    <BFCWE Cause="Casted Pointer" Operation="Dereference" Consequence="Type Confusion" />
+  </CWE>
+  <CWE ID="590">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="595">
+    <BFCWE Cause="Wrong Type" Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="597">
+    <BFCWE Cause="Erroneous Code" Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="608">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="622">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="624">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Command Injection" />
+  </CWE>
+  <CWE ID="625">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Verify" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="626">
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="628">
+    <BFCWE Cause="Erroneous Code" Operation="Call" />
+  </CWE>
+  <CWE ID="641">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="File Injection" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="643">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="644">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="646">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="652">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="655">
+    <BFCWE Cause="Missing Code" Operation="Initialize Object" Consequence="Uninitialized Object" />
+    <BFCWE Cause="Erroneous Code" Operation="Initialize Object" Consequence="Uninitialized Object" />
+  </CWE>
+  <CWE ID="672">
+    <BFCWE Cause="Dangling Pointer" Operation="Read" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Write" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Dereference" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Reallocate-Extend" Consequence="Double Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Deallocate" Consequence="Double Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Reduce" Consequence="Double Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Reallocate-Reduce" Consequence="Double Deallocate" />
+  </CWE>
+  <CWE ID="680">
+    <BFCWE Cause="Not Enough Memory" Operation="Write" Consequence="Buffer Overflow" />
+  </CWE>
+  <CWE ID="681">
+    <BFCWE Operation="Coerce" Consequence="Flipped Sign" />
+    <BFCWE Operation="Coerce" Consequence="Truncated Value" />
+    <BFCWE Operation="Coerce" Consequence="Distorted Value" />
+    <BFCWE Operation="Coerce" Consequence="Rounded Value" />
+  </CWE>
+  <CWE ID="682">
+    <BFCWE Cause="Erroneous Code" Operation="Calculate" Consequence="Wrong Result" />
+    <BFCWE Cause="Erroneous Code" Operation="Calculate" Consequence="Wrap Around" />
+  </CWE>
+  <CWE ID="683">
+    <BFCWE Cause="Erroneous Code" Operation="Call" Consequence="Wrong Function Resolved" />
+  </CWE>
+  <CWE ID="685">
+    <BFCWE Cause="Erroneous Code" Operation="Call" />
+  </CWE>
+  <CWE ID="686">
+    <BFCWE Cause="Erroneous Code" Operation="Call" />
+  </CWE>
+  <CWE ID="687">
+    <BFCWE Cause="Wrong Argument" Operation="Calculate" />
+    <BFCWE Operation="Evaluate" />
+  </CWE>
+  <CWE ID="688">
+    <BFCWE Cause="Erroneous Code" Operation="Calculate" />
+    <BFCWE Operation="Evaluate" />
+  </CWE>
+  <CWE ID="690">
+    <BFCWE Cause="Forbidden Address" Operation="Dereference" Consequence="NULL Pointer Dereference" />
+  </CWE>
+  <CWE ID="692">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="694">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" />
+  </CWE>
+  <CWE ID="697">
+    <BFCWE Cause="Erroneous Code" Operation="Evaluate" />
+  </CWE>
+  <CWE ID="706">
+    <BFCWE Cause="Erroneous Code" Operation="Refer" Consequence="Wrong Object Resolved" />
+    <BFCWE Cause="Erroneous Code" Operation="Refer" Consequence="Wrong finction Resolved" />
+  </CWE>
+  <CWE ID="759">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Function" />
+  </CWE>
+  <CWE ID="761">
+    <BFCWE Cause="Wrong Position Pointer" Operation="Deallocate" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="762">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Object Corruption" />
+    <BFCWE Cause="Mismatched Operation" Operation="Deallocate" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="763">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Object Corruption" />
+    <BFCWE Cause="Mismatched Operation" Operation="Deallocate" Consequence="Object Corruption" />
+  </CWE>
+  <CWE ID="766">
+    <BFCWE Cause="Erroneous Code" Operation="Declare" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="767">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="770">
+    <BFCWE Cause="Wrong Size" Operation="Allocate" Consequence="Memory Overflow" />
+  </CWE>
+  <CWE ID="771">
+    <BFCWE Cause="Single Owned Address" Operation="Reassign" Consequence="Memory Leak" />
+  </CWE>
+  <CWE ID="772">
+    <BFCWE Cause="Missing Code" Operation="Deallocate" Consequence="Memory Overflow" />
+  </CWE>
+  <CWE ID="781">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="786">
+    <BFCWE Cause="Under Bounds Pointer" Operation="Read" Consequence="Buffer Under-Read" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="787">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="788">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Read" Consequence="Buffer Over-Read" />
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+  </CWE>
+  <CWE ID="789">
+    <BFCWE Cause="Wrong Size" Operation="Allocate" Consequence="Memory Overflow" />
+  </CWE>
+  <CWE ID="790">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="791">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="794">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="795">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="796">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="797">
+    <BFCWE Cause="Under-Restrictive Policy" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="805">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="806">
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Over Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Overflow" />
+    <BFCWE Cause="Under Bounds Pointer" Operation="Write" Consequence="Buffer Underflow" />
+  </CWE>
+  <CWE ID="822">
+    <BFCWE Cause="Untrusted Pointer" Operation="Dereference" Consequence="Untrusted Pointer Dereference" />
+  </CWE>
+  <CWE ID="823">
+    <BFCWE Cause="Wrong Index" Operation="Reposition" Consequence="Over Bounds Pointer" />
+    <BFCWE Cause="Wrong Index" Operation="Reposition" Consequence="Over Bounds Pointer" />
+  </CWE>
+  <CWE ID="824">
+    <BFCWE Cause="Wild Pointer" Operation="Read" Consequence="Uninitialized Pointer Dereference" />
+    <BFCWE Cause="Wild Pointer" Operation="Write" Consequence="Uninitialized Pointer Dereference" />
+    <BFCWE Cause="Wild Pointer" Operation="Dereference" Consequence="Uninitialized Pointer Dereference" />
+  </CWE>
+  <CWE ID="825">
+    <BFCWE Cause="Dangling Pointer" Operation="Read" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Write" Consequence="Use After Deallocate" />
+    <BFCWE Cause="Dangling Pointer" Operation="Dereference" Consequence="Use After Deallocate" />
+  </CWE>
+  <CWE ID="839">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconssitent Value" />
+  </CWE>
+  <CWE ID="843">
+    <BFCWE Cause="Casted Pointer" Operation="Read" Consequence="Type Confusion" />
+    <BFCWE Cause="Casted Pointer" Operation="Write" Consequence="Type Confusion" />
+    <BFCWE Cause="Casted Pointer" Operation="Dereference" Consequence="Type Confusion" />
+  </CWE>
+  <CWE ID="908">
+    <BFCWE Cause="Uninitialized Object" />
+  </CWE>
+  <CWE ID="909">
+    <BFCWE Cause="Missing Code" Operation="Initialize Object" Consequence="Uninitialized Object" />
+  </CWE>
+  <CWE ID="917">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="943">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Query Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Query Injection" />
+  </CWE>
+  <CWE ID="1023">
+    <BFCWE Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="1024">
+    <BFCWE Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="1025">
+    <BFCWE Cause="Erroneous Code" Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="1039">
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+  </CWE>
+  <CWE ID="1043">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1045">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1054">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1055">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1057">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="1061">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Function" />
+  </CWE>
+  <CWE ID="1062">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1074">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1077">
+    <BFCWE Operation="Evaluate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="1079">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1082">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1083">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="1086">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1087">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1090">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+  </CWE>
+  <CWE ID="1091">
+    <BFCWE Cause="Missing Code" Operation="Deallocate" />
+  </CWE>
+  <CWE ID="1097">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1098">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Incomplete Type" />
+  </CWE>
+  <CWE ID="1102">
+    <BFCWE Cause="Erroneous Code" Operation="Define" />
+  </CWE>
+  <CWE ID="1105">
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Object" />
+    <BFCWE Cause="Erroneous Code" Operation="Define" Consequence="Wrong Access Function" />
+  </CWE>
+  <CWE ID="1173">
+    <BFCWE Cause="Missing Code" Operation="Verify" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" />
+    <BFCWE Cause="Missing Code" Operation="Validate" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" />
+  </CWE>
+  <CWE ID="1174">
+    <BFCWE Cause="Missing Code" Operation="Verify" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" />
+    <BFCWE Cause="Missing Code" Operation="Validate" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" />
+  </CWE>
+  <CWE ID="1236">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="1239">
+    <BFCWE Cause="Missing Code" Operation="Clear" Consequence="Not Cleared Object" />
+  </CWE>
+  <CWE ID="1272">
+    <BFCWE Cause="Missing Code" Operation="Clear" Consequence="Not Cleared Object" />
+  </CWE>
+  <CWE ID="1284">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="1285">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="1286">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Invalid Data" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Invalid Data" />
+  </CWE>
+  <CWE ID="1287">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Wrong Type" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Wrong Type" />
+  </CWE>
+  <CWE ID="1288">
+    <BFCWE Cause="Missing Code" Operation="Verify" Consequence="Inconsistent Value" />
+    <BFCWE Cause="Erroneous Code" Operation="Verify" Consequence="Inconsistent Value" />
+  </CWE>
+  <CWE ID="1289">
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="Source Code Injection" />
+    <BFCWE Cause="Missing Code" Operation="Validate" Consequence="File Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Validate" Consequence="File Injection" />
+  </CWE>
+  <CWE ID="1325">
+    <BFCWE Cause="Erroneous Code" Operation="Allocate" Consequence="Memory Overflow" />
+    <BFCWE Cause="Wrong Size" Operation="Allocate" Consequence="Memory Overflow" />
+  </CWE>
+  <CWE ID="1335">
+    <BFCWE Operation="Calculate" Consequence="Wrong Result" />
+  </CWE>
+  <CWE ID="1336">
+    <BFCWE Cause="Missing Code" Operation="Sanitize" Consequence="Source Code Injection" />
+    <BFCWE Cause="Erroneous Code" Operation="Sanitize" Consequence="Source Code Injection" />
+  </CWE>
+  <CWE ID="1339">
+    <BFCWE Operation="Calculate" Consequence="Wrap Around" />
+  </CWE>
+  <CWE ID="1341">
+    <BFCWE Cause="Erroneous Code" Operation="Deallocate" Consequence="Double Deallocate" />
+  </CWE>
+</BFCWE-Dataset>
