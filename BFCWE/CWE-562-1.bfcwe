@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-562" Title="CWE-562-1">
+  <Weakness Class="MAD" ClassType="_MEM">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Reassign</Operation>
+    <Consequence Type="Address">Wild Pointer</Consequence>
+  </Weakness>
+</BFCWE>

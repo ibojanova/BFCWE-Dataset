@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-167" Title="CWE-167-2">
+  <Weakness Class="DVL" ClassType="_INP">
+    <Cause Type="Code">Missing Code</Cause>
+    <Operation>Sanitize</Operation>
+    <Consequence Type="Data">Invalid Data</Consequence>
+  </Weakness>
+</BFCWE>

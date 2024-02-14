@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-789" Title="CWE-789-1">
+  <Weakness Class="MMN" ClassType="_MEM">
+    <Cause Type="Data">Wrong Size</Cause>
+    <Operation>Allocate</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Memory Overflow</Consequence>
+  </Weakness>
+</BFCWE>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-466" Title="CWE-466-4">
+  <Weakness Class="MAD" ClassType="_MEM">
+    <Operation>Reposition</Operation>
+    <Consequence Type="Address">Under Bounds Pointer</Consequence>
+  </Weakness>
+</BFCWE>

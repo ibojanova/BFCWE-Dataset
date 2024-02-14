@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-195" Title="CWE-195-1">
+  <Weakness Class="TCV" ClassType="_DAT">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Coerce</Operation>
+    <Consequence Type="Data">Wrong Value</Consequence>
+  </Weakness>
+</BFCWE>

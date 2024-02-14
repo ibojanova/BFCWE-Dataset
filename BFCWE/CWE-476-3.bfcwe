@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-476" Title="CWE-476-3">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Data">NULL Pointer</Cause>
+    <Operation>Dereference</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">NULL Pointer Dereference</Consequence>
+  </Weakness>
+</BFCWE>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-763" Title="CWE-763-2">
+  <Weakness Class="MMN" ClassType="_MEM">
+    <Cause Type="Code">Mismatched Operation</Cause>
+    <Operation>Deallocate</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Object Corruption</Consequence>
+  </Weakness>
+</BFCWE>

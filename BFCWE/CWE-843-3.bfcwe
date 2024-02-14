@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-843" Title="CWE-843-3">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Type">Casted Pointer</Cause>
+    <Operation>Write</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Type Confusion</Consequence>
+  </Weakness>
+</BFCWE>

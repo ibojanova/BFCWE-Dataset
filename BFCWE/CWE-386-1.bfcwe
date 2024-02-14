@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-386" Title="CWE-386-1">
+  <Weakness Class="NRS" ClassType="_DAT">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Call</Operation>
+    <Consequence Type="Name">Wrong Object Resolved</Consequence>
+  </Weakness>
+</BFCWE>

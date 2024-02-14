@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-672" Title="CWE-672-4">
+  <Weakness Class="MMN" ClassType="_MEM">
+    <Cause Type="Address">Dangling Pointer</Cause>
+    <Operation>Reallocate-Extend</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Double Deallocate</Consequence>
+  </Weakness>
+</BFCWE>

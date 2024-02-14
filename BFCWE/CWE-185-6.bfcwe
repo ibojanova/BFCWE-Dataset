@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-185" Title="CWE-185-6">
+  <Weakness Class="DVR" ClassType="_INP">
+    <Cause Type="Specification">Under-Restrictive Policy</Cause>
+    <Operation>Verify</Operation>
+    <Consequence Type="Data">Wrong Value</Consequence>
+  </Weakness>
+</BFCWE>

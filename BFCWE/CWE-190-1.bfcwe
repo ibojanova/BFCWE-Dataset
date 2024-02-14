@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-190" Title="CWE-190-1">
+  <Weakness Class="TCM" ClassType="_DAT">
+    <Operation>Calculate</Operation>
+    <Consequence Type="Data">Wrap Around</Consequence>
+  </Weakness>
+</BFCWE>

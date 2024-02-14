@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-127" Title="CWE-127-1">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Address">Under Bounds Pointer</Cause>
+    <Operation>Read</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Buffer Under-Read</Consequence>
+  </Weakness>
+</BFCWE>

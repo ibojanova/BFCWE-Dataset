@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-909" Title="CWE-909-2">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Code">Missing Code</Cause>
+    <Operation>Initialize Object</Operation>
+    <Consequence Type="Data">Uninitialized Object</Consequence>
+  </Weakness>
+</BFCWE>

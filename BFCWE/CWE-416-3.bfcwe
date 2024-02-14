@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-416" Title="CWE-416-3">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Address">Dangling Pointer</Cause>
+    <Operation>Write</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Use After Deallocate</Consequence>
+  </Weakness>
+</BFCWE>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-641" Title="CWE-641-4">
+  <Weakness Class="DVL" ClassType="_INP">
+    <Cause Type="Code">Missing Code</Cause>
+    <Operation>Validate</Operation>
+    <Consequence Type="Injection">Source Code Injection</Consequence>
+  </Weakness>
+</BFCWE>

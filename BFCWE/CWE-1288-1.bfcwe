@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-1288" Title="CWE-1288-1">
+  <Weakness Class="DVR" ClassType="_INP">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Verify</Operation>
+    <Consequence Type="Data">Inconsistent Value</Consequence>
+  </Weakness>
+</BFCWE>

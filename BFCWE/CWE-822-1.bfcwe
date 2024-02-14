@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-822" Title="CWE-822-1">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Address">Untrusted Pointer</Cause>
+    <Operation>Dereference</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Untrusted Pointer Dereference</Consequence>
+  </Weakness>
+</BFCWE>

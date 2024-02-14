@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-839" Title="CWE-839-2">
+  <Weakness Class="DVR" ClassType="_INP">
+    <Cause Type="Code">Missing Code</Cause>
+    <Operation>Verify</Operation>
+    <Consequence Type="">Inconssitent Value</Consequence>
+  </Weakness>
+</BFCWE>

@@ -1,0 +1,2107 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?mso-application progid="PowerPoint.Show"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+  <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="512">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="ppt/presentation.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/theme/theme1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.theme+xml">
+    <pkg:xmlData>
+      <a:theme name="Office Theme" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <a:themeElements>
+          <a:clrScheme name="Office">
+            <a:dk1>
+              <a:sysClr val="windowText" lastClr="000000" />
+            </a:dk1>
+            <a:lt1>
+              <a:sysClr val="window" lastClr="FFFFFF" />
+            </a:lt1>
+            <a:dk2>
+              <a:srgbClr val="44546A" />
+            </a:dk2>
+            <a:lt2>
+              <a:srgbClr val="E7E6E6" />
+            </a:lt2>
+            <a:accent1>
+              <a:srgbClr val="4472C4" />
+            </a:accent1>
+            <a:accent2>
+              <a:srgbClr val="ED7D31" />
+            </a:accent2>
+            <a:accent3>
+              <a:srgbClr val="A5A5A5" />
+            </a:accent3>
+            <a:accent4>
+              <a:srgbClr val="FFC000" />
+            </a:accent4>
+            <a:accent5>
+              <a:srgbClr val="5B9BD5" />
+            </a:accent5>
+            <a:accent6>
+              <a:srgbClr val="70AD47" />
+            </a:accent6>
+            <a:hlink>
+              <a:srgbClr val="0563C1" />
+            </a:hlink>
+            <a:folHlink>
+              <a:srgbClr val="954F72" />
+            </a:folHlink>
+          </a:clrScheme>
+          <a:fontScheme name="Office">
+            <a:majorFont>
+              <a:latin typeface="Calibri Light" panose="020F0302020204030204" />
+              <a:ea typeface="" />
+              <a:cs typeface="" />
+              <a:font script="Jpan" typeface="游ゴシック Light" />
+              <a:font script="Hang" typeface="맑은 고딕" />
+              <a:font script="Hans" typeface="等线 Light" />
+              <a:font script="Hant" typeface="新細明體" />
+              <a:font script="Arab" typeface="Times New Roman" />
+              <a:font script="Hebr" typeface="Times New Roman" />
+              <a:font script="Thai" typeface="Angsana New" />
+              <a:font script="Ethi" typeface="Nyala" />
+              <a:font script="Beng" typeface="Vrinda" />
+              <a:font script="Gujr" typeface="Shruti" />
+              <a:font script="Khmr" typeface="MoolBoran" />
+              <a:font script="Knda" typeface="Tunga" />
+              <a:font script="Guru" typeface="Raavi" />
+              <a:font script="Cans" typeface="Euphemia" />
+              <a:font script="Cher" typeface="Plantagenet Cherokee" />
+              <a:font script="Yiii" typeface="Microsoft Yi Baiti" />
+              <a:font script="Tibt" typeface="Microsoft Himalaya" />
+              <a:font script="Thaa" typeface="MV Boli" />
+              <a:font script="Deva" typeface="Mangal" />
+              <a:font script="Telu" typeface="Gautami" />
+              <a:font script="Taml" typeface="Latha" />
+              <a:font script="Syrc" typeface="Estrangelo Edessa" />
+              <a:font script="Orya" typeface="Kalinga" />
+              <a:font script="Mlym" typeface="Kartika" />
+              <a:font script="Laoo" typeface="DokChampa" />
+              <a:font script="Sinh" typeface="Iskoola Pota" />
+              <a:font script="Mong" typeface="Mongolian Baiti" />
+              <a:font script="Viet" typeface="Times New Roman" />
+              <a:font script="Uigh" typeface="Microsoft Uighur" />
+              <a:font script="Geor" typeface="Sylfaen" />
+              <a:font script="Armn" typeface="Arial" />
+              <a:font script="Bugi" typeface="Leelawadee UI" />
+              <a:font script="Bopo" typeface="Microsoft JhengHei" />
+              <a:font script="Java" typeface="Javanese Text" />
+              <a:font script="Lisu" typeface="Segoe UI" />
+              <a:font script="Mymr" typeface="Myanmar Text" />
+              <a:font script="Nkoo" typeface="Ebrima" />
+              <a:font script="Olck" typeface="Nirmala UI" />
+              <a:font script="Osma" typeface="Ebrima" />
+              <a:font script="Phag" typeface="Phagspa" />
+              <a:font script="Syrn" typeface="Estrangelo Edessa" />
+              <a:font script="Syrj" typeface="Estrangelo Edessa" />
+              <a:font script="Syre" typeface="Estrangelo Edessa" />
+              <a:font script="Sora" typeface="Nirmala UI" />
+              <a:font script="Tale" typeface="Microsoft Tai Le" />
+              <a:font script="Talu" typeface="Microsoft New Tai Lue" />
+              <a:font script="Tfng" typeface="Ebrima" />
+            </a:majorFont>
+            <a:minorFont>
+              <a:latin typeface="Calibri" panose="020F0502020204030204" />
+              <a:ea typeface="" />
+              <a:cs typeface="" />
+              <a:font script="Jpan" typeface="游ゴシック" />
+              <a:font script="Hang" typeface="맑은 고딕" />
+              <a:font script="Hans" typeface="等线" />
+              <a:font script="Hant" typeface="新細明體" />
+              <a:font script="Arab" typeface="Arial" />
+              <a:font script="Hebr" typeface="Arial" />
+              <a:font script="Thai" typeface="Cordia New" />
+              <a:font script="Ethi" typeface="Nyala" />
+              <a:font script="Beng" typeface="Vrinda" />
+              <a:font script="Gujr" typeface="Shruti" />
+              <a:font script="Khmr" typeface="DaunPenh" />
+              <a:font script="Knda" typeface="Tunga" />
+              <a:font script="Guru" typeface="Raavi" />
+              <a:font script="Cans" typeface="Euphemia" />
+              <a:font script="Cher" typeface="Plantagenet Cherokee" />
+              <a:font script="Yiii" typeface="Microsoft Yi Baiti" />
+              <a:font script="Tibt" typeface="Microsoft Himalaya" />
+              <a:font script="Thaa" typeface="MV Boli" />
+              <a:font script="Deva" typeface="Mangal" />
+              <a:font script="Telu" typeface="Gautami" />
+              <a:font script="Taml" typeface="Latha" />
+              <a:font script="Syrc" typeface="Estrangelo Edessa" />
+              <a:font script="Orya" typeface="Kalinga" />
+              <a:font script="Mlym" typeface="Kartika" />
+              <a:font script="Laoo" typeface="DokChampa" />
+              <a:font script="Sinh" typeface="Iskoola Pota" />
+              <a:font script="Mong" typeface="Mongolian Baiti" />
+              <a:font script="Viet" typeface="Arial" />
+              <a:font script="Uigh" typeface="Microsoft Uighur" />
+              <a:font script="Geor" typeface="Sylfaen" />
+              <a:font script="Armn" typeface="Arial" />
+              <a:font script="Bugi" typeface="Leelawadee UI" />
+              <a:font script="Bopo" typeface="Microsoft JhengHei" />
+              <a:font script="Java" typeface="Javanese Text" />
+              <a:font script="Lisu" typeface="Segoe UI" />
+              <a:font script="Mymr" typeface="Myanmar Text" />
+              <a:font script="Nkoo" typeface="Ebrima" />
+              <a:font script="Olck" typeface="Nirmala UI" />
+              <a:font script="Osma" typeface="Ebrima" />
+              <a:font script="Phag" typeface="Phagspa" />
+              <a:font script="Syrn" typeface="Estrangelo Edessa" />
+              <a:font script="Syrj" typeface="Estrangelo Edessa" />
+              <a:font script="Syre" typeface="Estrangelo Edessa" />
+              <a:font script="Sora" typeface="Nirmala UI" />
+              <a:font script="Tale" typeface="Microsoft Tai Le" />
+              <a:font script="Talu" typeface="Microsoft New Tai Lue" />
+              <a:font script="Tfng" typeface="Ebrima" />
+            </a:minorFont>
+          </a:fontScheme>
+          <a:fmtScheme name="Office">
+            <a:fillStyleLst>
+              <a:solidFill>
+                <a:schemeClr val="phClr" />
+              </a:solidFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:lumMod val="110000" />
+                      <a:satMod val="105000" />
+                      <a:tint val="67000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="phClr">
+                      <a:lumMod val="105000" />
+                      <a:satMod val="103000" />
+                      <a:tint val="73000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:lumMod val="105000" />
+                      <a:satMod val="109000" />
+                      <a:tint val="81000" />
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0" />
+              </a:gradFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:satMod val="103000" />
+                      <a:lumMod val="102000" />
+                      <a:tint val="94000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="phClr">
+                      <a:satMod val="110000" />
+                      <a:lumMod val="100000" />
+                      <a:shade val="100000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:lumMod val="99000" />
+                      <a:satMod val="120000" />
+                      <a:shade val="78000" />
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0" />
+              </a:gradFill>
+            </a:fillStyleLst>
+            <a:lnStyleLst>
+              <a:ln w="6350" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr" />
+                </a:solidFill>
+                <a:prstDash val="solid" />
+                <a:miter lim="800000" />
+              </a:ln>
+              <a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr" />
+                </a:solidFill>
+                <a:prstDash val="solid" />
+                <a:miter lim="800000" />
+              </a:ln>
+              <a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr" />
+                </a:solidFill>
+                <a:prstDash val="solid" />
+                <a:miter lim="800000" />
+              </a:ln>
+            </a:lnStyleLst>
+            <a:effectStyleLst>
+              <a:effectStyle>
+                <a:effectLst />
+              </a:effectStyle>
+              <a:effectStyle>
+                <a:effectLst />
+              </a:effectStyle>
+              <a:effectStyle>
+                <a:effectLst>
+                  <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                    <a:srgbClr val="000000">
+                      <a:alpha val="63000" />
+                    </a:srgbClr>
+                  </a:outerShdw>
+                </a:effectLst>
+              </a:effectStyle>
+            </a:effectStyleLst>
+            <a:bgFillStyleLst>
+              <a:solidFill>
+                <a:schemeClr val="phClr" />
+              </a:solidFill>
+              <a:solidFill>
+                <a:schemeClr val="phClr">
+                  <a:tint val="95000" />
+                  <a:satMod val="170000" />
+                </a:schemeClr>
+              </a:solidFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="93000" />
+                      <a:satMod val="150000" />
+                      <a:shade val="98000" />
+                      <a:lumMod val="102000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="98000" />
+                      <a:satMod val="130000" />
+                      <a:shade val="90000" />
+                      <a:lumMod val="103000" />
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="63000" />
+                      <a:satMod val="120000" />
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0" />
+              </a:gradFill>
+            </a:bgFillStyleLst>
+          </a:fmtScheme>
+        </a:themeElements>
+      </a:theme>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slideMasters/_rels/slideMaster.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rIdTheme" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="../theme/theme1.xml" />
+        <Relationship Id="rIdLayout" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout" Target="../slideLayouts/slideLayout.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slideMasters/slideMaster.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml">
+    <pkg:xmlData>
+      <p:sldMaster xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <p:cSld>
+          <p:spTree>
+            <p:nvGrpSpPr>
+              <p:cNvPr id="1" name="" />
+              <p:cNvGrpSpPr />
+              <p:nvPr />
+            </p:nvGrpSpPr>
+            <p:grpSpPr />
+          </p:spTree>
+        </p:cSld>
+        <p:clrMap bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink" />
+        <p:sldLayoutIdLst>
+          <p:sldLayoutId id="2147483649" r:id="rIdLayout" />
+        </p:sldLayoutIdLst>
+      </p:sldMaster>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slideLayouts/_rels/slideLayout.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideMaster" Target="../slideMasters/slideMaster.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slideLayouts/slideLayout.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml">
+    <pkg:xmlData>
+      <p:sldLayout type="title" preserve="1" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <p:cSld>
+          <p:spTree>
+            <p:nvGrpSpPr>
+              <p:cNvPr id="1" name="" />
+              <p:cNvGrpSpPr />
+              <p:nvPr />
+            </p:nvGrpSpPr>
+            <p:grpSpPr />
+          </p:spTree>
+        </p:cSld>
+      </p:sldLayout>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/_rels/presentation.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rIdMaster" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideMaster" Target="slideMasters/slideMaster.xml" />
+        <Relationship Id="rIdSlideCWE-74" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slide" Target="slides/slideCWE-74.xml" />
+        <Relationship Id="rIdSlideCWE-741" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slide" Target="slides/slideCWE-741.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/presentation.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml">
+    <pkg:xmlData>
+      <p:presentation saveSubsetFonts="1" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <p:sldMasterIdLst>
+          <p:sldMasterId id="2147483648" r:id="rIdMaster" />
+        </p:sldMasterIdLst>
+        <p:sldIdLst>
+          <p:sldId id="257" r:id="rIdSlideCWE-74" />
+          <p:sldId id="258" r:id="rIdSlideCWE-741" />
+        </p:sldIdLst>
+        <p:sldSz cx="11500000" cy="30000000" />
+        <p:notesSz cx="6858000" cy="9144000" />
+      </p:presentation>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slides/_rels/slideCWE-74.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout" Target="../slideLayouts/slideLayout.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slides/slideCWE-74.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml">
+    <pkg:xmlData>
+      <p:sld xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <p:cSld>
+          <p:spTree>
+            <p:nvGrpSpPr>
+              <p:cNvPr id="1" name="" />
+              <p:cNvGrpSpPr />
+              <p:nvPr />
+            </p:nvGrpSpPr>
+            <p:grpSpPr />
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="0" y="0" />
+                  <a:ext cx="11500000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>BF Specification of CWE-74</a:t>
+                  </a:r>
+                </a:p>
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>CWE-74-7</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="0" y="600000" />
+                  <a:ext cx="11500000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Input/Output Check (_INP)</a:t>
+                  </a:r>
+                </a:p>
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Data Validation (DVL)</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="400000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Code Fault</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="4200000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Operation</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="8000000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Injection Final Error</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="3" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="400000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="F4F2F8" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="F4F2F8" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Missing Code</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="4" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="4200000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="rect" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Sanitize</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="5" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="8000000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="DFDAEA" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="DFDAEA" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>File Injection</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:cxnSp>
+              <p:nvCxnSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvCxnSpPr>
+                  <a:stCxn id="3" idx="3" />
+                  <a:endCxn id="4" idx="1" />
+                </p:cNvCxnSpPr>
+                <p:nvPr />
+              </p:nvCxnSpPr>
+              <p:spPr>
+                <a:xfrm flipH="false">
+                  <a:off x="3500000" y="1710000" />
+                  <a:ext cx="700000" cy="0" />
+                </a:xfrm>
+                <a:prstGeom prst="straightConnector1" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                  <a:tailEnd type="triangle" />
+                </a:ln>
+              </p:spPr>
+            </p:cxnSp>
+            <p:cxnSp>
+              <p:nvCxnSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvCxnSpPr>
+                  <a:stCxn id="4" idx="3" />
+                  <a:endCxn id="5" idx="1" />
+                </p:cNvCxnSpPr>
+                <p:nvPr />
+              </p:nvCxnSpPr>
+              <p:spPr>
+                <a:xfrm flipH="false">
+                  <a:off x="7300000" y="1710000" />
+                  <a:ext cx="700000" cy="0" />
+                </a:xfrm>
+                <a:prstGeom prst="straightConnector1" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                  <a:tailEnd type="triangle" />
+                </a:ln>
+              </p:spPr>
+            </p:cxnSp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="400000" y="4000000" />
+                  <a:ext cx="400000" cy="260000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="E8EFFC" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="E8EFFC" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t></a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="800000" y="4000000" />
+                  <a:ext cx="1740000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Bug</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="2540000" y="4000000" />
+                  <a:ext cx="400000" cy="260000" />
+                </a:xfrm>
+                <a:prstGeom prst="rect" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t></a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="2940000" y="4000000" />
+                  <a:ext cx="1740000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Operation</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="4680000" y="4000000" />
+                  <a:ext cx="400000" cy="260000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="F4F2F8" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="F4F2F8" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t></a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="5080000" y="4000000" />
+                  <a:ext cx="1740000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Fault / Error</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="6820000" y="4000000" />
+                  <a:ext cx="400000" cy="260000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="DFDAEA" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="DFDAEA" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t></a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="7220000" y="4000000" />
+                  <a:ext cx="1740000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Final Error</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="8960000" y="4000000" />
+                  <a:ext cx="400000" cy="260000" />
+                </a:xfrm>
+                <a:prstGeom prst="triangle" />
+                <a:solidFill>
+                  <a:srgbClr val="DFDAEA" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="7D3368" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t></a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="9360000" y="4000000" />
+                  <a:ext cx="1740000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Failure</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="0" y="4780000" />
+                  <a:ext cx="11500000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="r" />
+                  <a:r>
+                    <a:rPr sz="1200">
+                      <a:solidFill>
+                        <a:srgbClr val="7F7F7F" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Bugs Framework (), BFCWE Tool,  I. Bojanova, 2024</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:graphicFrame>
+              <p:nvGraphicFramePr>
+                <p:cNvPr id="555" name="definitionsTable" />
+                <p:cNvGraphicFramePr>
+                  <a:graphicFrameLocks noGrp="1" />
+                </p:cNvGraphicFramePr>
+                <p:nvPr />
+              </p:nvGraphicFramePr>
+              <p:xfrm>
+                <a:off x="400000" y="5300000" cx="10700000" cy="2600000" />
+              </p:xfrm>
+              <a:graphic>
+                <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+                  <a:tbl>
+                    <a:tblPr>
+                      <a:tableStyleId>{073A0DAA-6AF3-43AB-8588-CEC1D06C72B9}</a:tableStyleId>
+                    </a:tblPr>
+                    <a:tblGrid>
+                      <a:gridCol w="2675000" />
+                      <a:gridCol w="8025000" />
+                    </a:tblGrid>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Class Type</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Input/Output Check (_INP)</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Input/Output Check (_INP) class type – Bugs/weaknesses allowing an injection exploit.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Class</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Data Validation (DVL)</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Data Validation (DVL) class – Data are validated (syntax check) or sanitized (escape, filter, repair) improperly.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operation</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Sanitize</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Sanitize operation – Modify data (neutralize/escape, filter/remove, repair/add symbols) to make it valid (well-formed).</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Cause</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Code Bug</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Code Bug type – Defect in the implementation of the operation – proper operands over an improper operation. A first cause for the chain of weaknesses underlying a software security vulnerability. Must be fixed to resolve the vulnerability.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>      Missing Code</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Missing Code bug - The operation is entirely absent.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Consequence</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Injection Final Error</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Injection exploitable error type – An exploitable or undefined  system behavior caused by 'code separation' data validation bugs.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>      File Injection</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>File Injection exploitable error – Maliciously inserted data (e.g., with .. and / or with file entries) into an input used to access/modify files or as a file content.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operand Attribute</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operation Attribute</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Failure</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                  </a:tbl>
+                </a:graphicData>
+              </a:graphic>
+            </p:graphicFrame>
+          </p:spTree>
+        </p:cSld>
+        <p:clrMapOvr>
+          <a:masterClrMapping />
+        </p:clrMapOvr>
+      </p:sld>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slides/_rels/slideCWE-741.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout" Target="../slideLayouts/slideLayout.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/ppt/slides/slideCWE-741.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml">
+    <pkg:xmlData>
+      <p:sld xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <p:cSld>
+          <p:spTree>
+            <p:nvGrpSpPr>
+              <p:cNvPr id="1" name="" />
+              <p:cNvGrpSpPr />
+              <p:nvPr />
+            </p:nvGrpSpPr>
+            <p:grpSpPr />
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="0" y="600000" />
+                  <a:ext cx="11500000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Input/Output Check (_INP)</a:t>
+                  </a:r>
+                </a:p>
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Data Validation (DVL)</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="400000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Code Fault</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="4200000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Operation</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="8000000" y="1120000" />
+                  <a:ext cx="3100000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr />
+                  <a:r>
+                    <a:rPr sz="1400" />
+                    <a:t>Injection Final Error</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="3" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="400000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="F4F2F8" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="F4F2F8" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Missing Code</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="4" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="4200000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="rect" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Sanitize</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="5" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="8000000" y="1380000" />
+                  <a:ext cx="3100000" cy="660000" />
+                </a:xfrm>
+                <a:prstGeom prst="roundRect" />
+                <a:solidFill>
+                  <a:srgbClr val="DFDAEA" />
+                </a:solidFill>
+                <a:ln w="6350">
+                  <a:solidFill>
+                    <a:srgbClr val="DFDAEA" />
+                  </a:solidFill>
+                </a:ln>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" anchor="ctr" />
+                <a:p>
+                  <a:pPr algn="ctr" />
+                  <a:r>
+                    <a:rPr sz="1400">
+                      <a:solidFill>
+                        <a:srgbClr val="660066" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>File Injection</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:cxnSp>
+              <p:nvCxnSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvCxnSpPr>
+                  <a:stCxn id="3" idx="3" />
+                  <a:endCxn id="4" idx="1" />
+                </p:cNvCxnSpPr>
+                <p:nvPr />
+              </p:nvCxnSpPr>
+              <p:spPr>
+                <a:xfrm flipH="false">
+                  <a:off x="3500000" y="1710000" />
+                  <a:ext cx="700000" cy="0" />
+                </a:xfrm>
+                <a:prstGeom prst="straightConnector1" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                  <a:tailEnd type="triangle" />
+                </a:ln>
+              </p:spPr>
+            </p:cxnSp>
+            <p:cxnSp>
+              <p:nvCxnSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvCxnSpPr>
+                  <a:stCxn id="4" idx="3" />
+                  <a:endCxn id="5" idx="1" />
+                </p:cNvCxnSpPr>
+                <p:nvPr />
+              </p:nvCxnSpPr>
+              <p:spPr>
+                <a:xfrm flipH="false">
+                  <a:off x="7300000" y="1710000" />
+                  <a:ext cx="700000" cy="0" />
+                </a:xfrm>
+                <a:prstGeom prst="straightConnector1" />
+                <a:ln w="6350">
+                  <a:solidFill />
+                  <a:tailEnd type="triangle" />
+                </a:ln>
+              </p:spPr>
+            </p:cxnSp>
+            <p:sp>
+              <p:nvSpPr>
+                <p:cNvPr id="0" name="" />
+                <p:cNvSpPr />
+                <p:nvPr />
+              </p:nvSpPr>
+              <p:spPr>
+                <a:xfrm>
+                  <a:off x="0" y="4780000" />
+                  <a:ext cx="11500000" cy="260000" />
+                </a:xfrm>
+              </p:spPr>
+              <p:txBody>
+                <a:bodyPr lIns="20000" rIns="20000" />
+                <a:p>
+                  <a:pPr algn="r" />
+                  <a:r>
+                    <a:rPr sz="1200">
+                      <a:solidFill>
+                        <a:srgbClr val="7F7F7F" />
+                      </a:solidFill>
+                    </a:rPr>
+                    <a:t>Bugs Framework (), BFCWE Tool,  I. Bojanova, 2024</a:t>
+                  </a:r>
+                </a:p>
+              </p:txBody>
+            </p:sp>
+            <p:graphicFrame>
+              <p:nvGraphicFramePr>
+                <p:cNvPr id="555" name="definitionsTable" />
+                <p:cNvGraphicFramePr>
+                  <a:graphicFrameLocks noGrp="1" />
+                </p:cNvGraphicFramePr>
+                <p:nvPr />
+              </p:nvGraphicFramePr>
+              <p:xfrm>
+                <a:off x="400000" y="5300000" cx="10700000" cy="2600000" />
+              </p:xfrm>
+              <a:graphic>
+                <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+                  <a:tbl>
+                    <a:tblPr>
+                      <a:tableStyleId>{073A0DAA-6AF3-43AB-8588-CEC1D06C72B9}</a:tableStyleId>
+                    </a:tblPr>
+                    <a:tblGrid>
+                      <a:gridCol w="2675000" />
+                      <a:gridCol w="8025000" />
+                    </a:tblGrid>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Class Type</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Input/Output Check (_INP)</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Input/Output Check (_INP) class type – Bugs/weaknesses allowing an injection exploit.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Class</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Data Validation (DVL)</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Data Validation (DVL) class – Data are validated (syntax check) or sanitized (escape, filter, repair) improperly.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operation</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Sanitize</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Sanitize operation – Modify data (neutralize/escape, filter/remove, repair/add symbols) to make it valid (well-formed).</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Cause</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Code Bug</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Code Bug type – Defect in the implementation of the operation – proper operands over an improper operation. A first cause for the chain of weaknesses underlying a software security vulnerability. Must be fixed to resolve the vulnerability.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>      Missing Code</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Missing Code bug - The operation is entirely absent.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Consequence</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Injection Final Error</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>Injection exploitable error type – An exploitable or undefined  system behavior caused by 'code separation' data validation bugs.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>      File Injection</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="0" />
+                              <a:t>File Injection exploitable error – Maliciously inserted data (e.g., with .. and / or with file entries) into an input used to access/modify files or as a file content.</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operand Attribute</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Operation Attribute</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                    <a:tr h="180000">
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Failure</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                      <a:tc>
+                        <a:txBody>
+                          <a:bodyPr />
+                          <a:p>
+                            <a:r>
+                              <a:rPr sz="1200" b="1" />
+                              <a:t>Definition</a:t>
+                            </a:r>
+                          </a:p>
+                        </a:txBody>
+                        <a:tcPr />
+                      </a:tc>
+                    </a:tr>
+                  </a:tbl>
+                </a:graphicData>
+              </a:graphic>
+            </p:graphicFrame>
+          </p:spTree>
+        </p:cSld>
+        <p:clrMapOvr>
+          <a:masterClrMapping />
+        </p:clrMapOvr>
+      </p:sld>
+    </pkg:xmlData>
+  </pkg:part>
+</pkg:package>

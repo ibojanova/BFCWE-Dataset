@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-79" Title="CWE-79-1">
+  <Weakness Class="DVL" ClassType="_INP">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Sanitize</Operation>
+    <Consequence Type="Injection">Source Code Injection</Consequence>
+  </Weakness>
+</BFCWE>

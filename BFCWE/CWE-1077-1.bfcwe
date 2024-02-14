@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-1077" Title="CWE-1077-1">
+  <Weakness Class="TCM" ClassType="_DAT">
+    <Operation>Evaluate</Operation>
+    <Consequence Type="Data">Wrong Result</Consequence>
+  </Weakness>
+</BFCWE>

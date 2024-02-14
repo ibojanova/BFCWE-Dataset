@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-706" Title="CWE-706-1">
+  <Weakness Class="NRS" ClassType="_DAT">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Refer</Operation>
+    <Consequence Type="Name">Wrong Object Resolved</Consequence>
+  </Weakness>
+</BFCWE>

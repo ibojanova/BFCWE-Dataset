@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-587" Title="CWE-587-1">
+  <Weakness Class="MAD" ClassType="_MEM">
+    <Cause Type="Data">Hardcoded Address</Cause>
+    <Operation>Initialize Pointer</Operation>
+    <Consequence Type="Address">Wild Pointer</Consequence>
+  </Weakness>
+</BFCWE>

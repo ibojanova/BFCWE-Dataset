@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-369" Title="CWE-369-1">
+  <Weakness Class="TCM" ClassType="_DAT">
+    <Cause Type="Data">Wrong Argument</Cause>
+    <Operation>Calculate</Operation>
+    <Consequence Type="Type Compute">Undefined</Consequence>
+  </Weakness>
+</BFCWE>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-188" Title="CWE-188-1">
+  <Weakness Class="TCM" ClassType="_DAT">
+    <Operation>Calculate</Operation>
+    <Consequence Type="Data">Wrong Result</Consequence>
+  </Weakness>
+</BFCWE>

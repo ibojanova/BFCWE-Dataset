@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-400" Title="CWE-400-2">
+  <Weakness Class="MAD" ClassType="_MEM">
+    <Cause Type="Data">Single Owned Address</Cause>
+    <Operation>Reassign</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Memory Leak</Consequence>
+  </Weakness>
+</BFCWE>

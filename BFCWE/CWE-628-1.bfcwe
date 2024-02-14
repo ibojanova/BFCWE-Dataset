@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-628" Title="CWE-628-1">
+  <Weakness Class="NRS" ClassType="_DAT">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Call</Operation>
+  </Weakness>
+</BFCWE>

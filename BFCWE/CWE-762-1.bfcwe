@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-762" Title="CWE-762-1">
+  <Weakness Class="MMN" ClassType="_MEM">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Deallocate</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Object Corruption</Consequence>
+  </Weakness>
+</BFCWE>

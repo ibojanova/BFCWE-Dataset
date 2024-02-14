@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-761" Title="CWE-761-1">
+  <Weakness Class="MMN" ClassType="_MEM">
+    <Cause Type="Address">Wrong Position Pointer</Cause>
+    <Operation>Deallocate</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Object Corruption</Consequence>
+  </Weakness>
+</BFCWE>

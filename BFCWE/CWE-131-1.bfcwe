@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-131" Title="CWE-131-1">
+  <Weakness Class="TCM" ClassType="_DAT">
+    <Operation>Calculate</Operation>
+  </Weakness>
+</BFCWE>

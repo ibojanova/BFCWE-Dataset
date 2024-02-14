@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-690" Title="CWE-690-1">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Data">Forbidden Address</Cause>
+    <Operation>Dereference</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">NULL Pointer Dereference</Consequence>
+  </Weakness>
+</BFCWE>

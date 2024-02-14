@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-1098" Title="CWE-1098-1">
+  <Weakness Class="DCL" ClassType="_DAT">
+    <Cause Type="Code">Erroneous Code</Cause>
+    <Operation>Define</Operation>
+    <Consequence Type="Type">Incomplete Type</Consequence>
+  </Weakness>
+</BFCWE>

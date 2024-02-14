@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BFCWE ID="CWE-244" Title="CWE-244-1">
+  <Weakness Class="MUS" ClassType="_MEM">
+    <Cause Type="Code">Missing Code</Cause>
+    <Operation>Clear</Operation>
+    <Consequence Type="Memory Corruption/Disclosure">Not Cleared Object</Consequence>
+  </Weakness>
+</BFCWE>
